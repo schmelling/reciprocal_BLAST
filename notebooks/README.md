@@ -1,8 +1,6 @@
 ## Minimal Tool Set for a Prokaryotic Circadian Clock
 
-This folder contains code for the data generation, processing, and analysis of the work "Minimal Tool Set for a Prokaryotic Circadian Clock" on [bioRxiv](). The code is stored in jupyter notebooks and contains mostly python code. The sections for working on the command line are also included in the notebook und highlighted. 
-
-This repository contains all my IPython notebooks that I used for my analysis during my master thesis. The notebooks include the code to get, preprocess, and analyze the data and prepare the graphics.
+This folder contains code for the data generation, processing, and analysis of the work "Minimal Tool Set for a Prokaryotic Circadian Clock" on [bioRxiv](). The code is stored in jupyter notebooks and contains mostly python code. The sections for working on the command line are also included in the notebook und highlighted.
 
 The raw and preprocessed data is available on [FigShare]().
 
