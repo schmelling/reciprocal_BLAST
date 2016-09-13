@@ -14,6 +14,6 @@ If you have any question about the code or anything else just let me know: [emai
 
 1. [Data Collection and Processing](https://github.com/schmelling/reciprocal_BLAST/blob/master/notebooks/1_KaiABC_BLAST_Data_Collection_and_Perprocessing.ipynb)
 2. [Distribution of circadian clock factors](https://github.com/schmelling/reciprocal_BLAST/blob/master/notebooks/2_KaiABC_BLAST_Heatmap.ipynb)
-3. [KaiABC Length Distribution](https://github.com/schmelling/reciprocal_BLAST/blob/master/notebooks/3_KaiABC_BLAST_Scatterplot.ipynb)
-4. [Statistical Analysis of Co-Occurrence](https://github.com/schmelling/reciprocal_BLAST/blob/master/notebooks/4_KaiABC_BLAST_FisherTest.ipynb)
-5. [Additional Analyses](https://github.com/schmelling/reciprocal_BLAST/blob/master/notebooks/5_KaiABC_BLAST_Other.ipynb)
+3. [KaiABC length distribution](https://github.com/schmelling/reciprocal_BLAST/blob/master/notebooks/3_KaiABC_BLAST_Scatterplot.ipynb)
+4. [Statistical analysis of co-occurrence](https://github.com/schmelling/reciprocal_BLAST/blob/master/notebooks/4_KaiABC_BLAST_FisherTest.ipynb)
+5. [Additional analyses](https://github.com/schmelling/reciprocal_BLAST/blob/master/notebooks/5_KaiABC_BLAST_Other.ipynb)
