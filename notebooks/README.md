@@ -6,7 +6,7 @@ The raw and preprocessed data is available on [FigShare]().
 
 If you use the data for your own research please cite it by citing the [FigShare repo]() or the [bioRxiv preprint]().
 
-If you have any question about the code or anything else just let me know: [email](mailto:nicolas.schmelling@hhu.de) or [twitter](https://twitter.com/bio_mediocre)
+If you have any question about the code or anything else just let me know: [email](mailto:nicolas.schmelling@hhu.de) or [twitter](https://twitter.com/derschmelling)
 
 ###Order of notebooks###
 
