@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/29606889.svg)](https://zenodo.org/badge/latestdoi/29606889)
+
 ## Minimal Tool Set for a Prokaryotic Circadian Clock
 
 This folder contains code for the data generation, processing, and analysis of the work "Minimal Tool Set for a Prokaryotic Circadian Clock" on [bioRxiv](http://biorxiv.org/content/early/2016/09/15/075291). The code is stored in jupyter notebooks and contains mostly python code. The sections for working on the command line are also included in the notebook und highlighted.
