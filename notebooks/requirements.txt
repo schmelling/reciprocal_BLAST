@@ -1,0 +1,7 @@
+CPython == 3.5.2
+IPython == 4.1.1
+matplotlib == 1.5.1
+numpy == 1.10.4
+pandas == 0.18.0
+biopython == 1.66
+scipy == 0.17.0

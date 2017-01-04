@@ -30,8 +30,17 @@ If you have any question about the code or anything else just let me know: [emai
 
 ###Order of notebooks###
 
-1. [Data collection and processing](https://github.com/schmelling/reciprocal_BLAST/blob/master/notebooks/1_KaiABC_BLAST_Data_Collection_and_Perprocessing.ipynb)
-2. [Distribution of circadian clock factors](https://github.com/schmelling/reciprocal_BLAST/blob/master/notebooks/2_KaiABC_BLAST_Heatmap.ipynb)
-3. [KaiABC length distribution](https://github.com/schmelling/reciprocal_BLAST/blob/master/notebooks/3_KaiABC_BLAST_Scatterplot.ipynb)
-4. [Statistical analysis of co-occurrence](https://github.com/schmelling/reciprocal_BLAST/blob/master/notebooks/4_KaiABC_BLAST_FisherTest.ipynb)
+1. [Data collection and processing](https://github.com/schmelling/reciprocal_BLAST/blob/master/notebooks/1_KaiABC_BLAST_Data_Collection_and_Perprocessing.ipynb)     
+*Code for downloading the raw data, runnning the BLAST analysis, and preprocess that data*
+
+2. [Distribution of circadian clock factors](https://github.com/schmelling/reciprocal_BLAST/blob/master/notebooks/2_KaiABC_BLAST_Heatmap.ipynb)     
+*Code for creating the heatmap (Figure 1)*
+
+3. [KaiABC length distribution](https://github.com/schmelling/reciprocal_BLAST/blob/master/notebooks/3_KaiABC_BLAST_Scatterplot.ipynb)     
+*Code for creating the scatter plots (Figure 5)*
+
+4. [Statistical analysis of co-occurrence](https://github.com/schmelling/reciprocal_BLAST/blob/master/notebooks/4_KaiABC_BLAST_FisherTest.ipynb)     
+*Code for the statistical analysis and creating the Figure 2*
+
 5. [Additional analyses](https://github.com/schmelling/reciprocal_BLAST/blob/master/notebooks/5_KaiABC_BLAST_Other.ipynb)
+*Code for further analysis and statistics*
